@@ -1,0 +1,15 @@
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\bin\Debug\net6.0\Petzey.ViewAllPet.Exceptions.deps.json
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\bin\Debug\net6.0\Petzey.ViewAllPet.Exceptions.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\bin\Debug\net6.0\Petzey.ViewAllPet.Exceptions.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\bin\Debug\net6.0\Petzey.ViewAllPet.Model.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\bin\Debug\net6.0\Petzey.ViewAllPet.Model.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\obj\Debug\net6.0\Petzey.ViewAllPet.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\obj\Debug\net6.0\Petzey.ViewAllPet.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\obj\Debug\net6.0\Petzey.ViewAllPet.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\obj\Debug\net6.0\Petzey.ViewAllPet.Exceptions.AssemblyInfo.cs
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\obj\Debug\net6.0\Petzey.ViewAllPet.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\obj\Debug\net6.0\Petzey.ViewAllPet.Exceptions.csproj.CopyComplete
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\obj\Debug\net6.0\Petzey.ViewAllPet.Exceptions.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\obj\Debug\net6.0\refint\Petzey.ViewAllPet.Exceptions.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\obj\Debug\net6.0\Petzey.ViewAllPet.Exceptions.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\obj\Debug\net6.0\ref\Petzey.ViewAllPet.Exceptions.dll

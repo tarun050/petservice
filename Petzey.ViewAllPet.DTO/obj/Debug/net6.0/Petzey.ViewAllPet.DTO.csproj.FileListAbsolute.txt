@@ -1,0 +1,12 @@
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\bin\Debug\net6.0\Petzey.ViewAllPet.DTO.deps.json
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\bin\Debug\net6.0\Petzey.ViewAllPet.DTO.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\bin\Debug\net6.0\Petzey.ViewAllPet.DTO.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\obj\Debug\net6.0\Petzey.ViewAllPet.DTO.csproj.AssemblyReference.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\obj\Debug\net6.0\Petzey.ViewAllPet.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\obj\Debug\net6.0\Petzey.ViewAllPet.DTO.AssemblyInfoInputs.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\obj\Debug\net6.0\Petzey.ViewAllPet.DTO.AssemblyInfo.cs
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\obj\Debug\net6.0\Petzey.ViewAllPet.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\obj\Debug\net6.0\Petzey.ViewAllPet.DTO.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\obj\Debug\net6.0\refint\Petzey.ViewAllPet.DTO.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\obj\Debug\net6.0\Petzey.ViewAllPet.DTO.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\obj\Debug\net6.0\ref\Petzey.ViewAllPet.DTO.dll

@@ -1,0 +1,14 @@
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\bin\Debug\net6.0\Petzey.ViewAllPet.Domain.deps.json
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\bin\Debug\net6.0\Petzey.ViewAllPet.Domain.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\bin\Debug\net6.0\Petzey.ViewAllPet.Domain.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\obj\Debug\net6.0\Petzey.ViewAllPet.Domain.csproj.AssemblyReference.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\obj\Debug\net6.0\Petzey.ViewAllPet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\obj\Debug\net6.0\Petzey.ViewAllPet.Domain.AssemblyInfoInputs.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\obj\Debug\net6.0\Petzey.ViewAllPet.Domain.AssemblyInfo.cs
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\obj\Debug\net6.0\Petzey.ViewAllPet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\obj\Debug\net6.0\Petzey.ViewAllPet.Domain.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\obj\Debug\net6.0\refint\Petzey.ViewAllPet.Domain.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\obj\Debug\net6.0\Petzey.ViewAllPet.Domain.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\obj\Debug\net6.0\ref\Petzey.ViewAllPet.Domain.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\bin\Debug\net6.0\Petzey.ViewAllPet.Domain.runtimeconfig.json
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\obj\Debug\net6.0\Petzey.ViewAllPet.Domain.genruntimeconfig.cache

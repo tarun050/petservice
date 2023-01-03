@@ -1,0 +1,17 @@
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\bin\Debug\net6.0\Petzey.ViewAllPet.Repository.deps.json
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\bin\Debug\net6.0\Petzey.ViewAllPet.Repository.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\bin\Debug\net6.0\Petzey.ViewAllPet.Repository.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\bin\Debug\net6.0\Petzey.ViewAllPet.Exceptions.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\bin\Debug\net6.0\Petzey.ViewAllPet.Model.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\bin\Debug\net6.0\Petzey.ViewAllPet.Model.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\bin\Debug\net6.0\Petzey.ViewAllPet.Exceptions.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\obj\Debug\net6.0\Petzey.ViewAllPet.Repository.csproj.AssemblyReference.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\obj\Debug\net6.0\Petzey.ViewAllPet.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\obj\Debug\net6.0\Petzey.ViewAllPet.Repository.AssemblyInfoInputs.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\obj\Debug\net6.0\Petzey.ViewAllPet.Repository.AssemblyInfo.cs
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\obj\Debug\net6.0\Petzey.ViewAllPet.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\obj\Debug\net6.0\Petzey.ViewAllPet.Repository.csproj.CopyComplete
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\obj\Debug\net6.0\Petzey.ViewAllPet.Repository.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\obj\Debug\net6.0\refint\Petzey.ViewAllPet.Repository.dll
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\obj\Debug\net6.0\Petzey.ViewAllPet.Repository.pdb
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\obj\Debug\net6.0\ref\Petzey.ViewAllPet.Repository.dll

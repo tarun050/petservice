@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.3.2" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.2.10" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.10" />
+    <PackageReference Include="coverlet.collector" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Petzey.ViewAllPet.Domain\Petzey.ViewAllPet.Model.csproj" />
+    <ProjectReference Include="..\Petzey.ViewAllPet.DTO\Petzey.ViewAllPet.DTO.csproj" />
+    <ProjectReference Include="..\Petzey.ViewAllPet.Exceptions\Petzey.ViewAllPet.Exceptions.csproj" />
+    <ProjectReference Include="..\Petzey.ViewAllPet.Repository\Petzey.ViewAllPet.Repository.csproj" />
+    <ProjectReference Include="..\Petzey.ViewAllPet.Services\Petzey.ViewAllPet.Services.csproj" />
+    <ProjectReference Include="..\Petzey.ViewAllPets.API\Petzey.ViewAllPets.API.csproj" />
+  </ItemGroup>
+
+</Project>

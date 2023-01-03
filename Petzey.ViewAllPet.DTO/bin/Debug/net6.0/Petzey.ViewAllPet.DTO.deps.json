@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Petzey.ViewAllPet.DTO/1.0.0": {
+        "runtime": {
+          "Petzey.ViewAllPet.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Petzey.ViewAllPet.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

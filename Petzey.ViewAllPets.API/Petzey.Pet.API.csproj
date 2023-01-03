@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-Petzey.ViewAllPets.API-7ea202b4-d20f-479b-aa0c-19dc41f8b848</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.11" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="6.0.11" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.16.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Petzey.ViewAllPet.Domain\Petzey.ViewAllPet.Model.csproj" />
+    <ProjectReference Include="..\Petzey.ViewAllPet.DTO\Petzey.ViewAllPet.DTO.csproj" />
+    <ProjectReference Include="..\Petzey.ViewAllPet.Repository\Petzey.ViewAllPet.Repository.csproj" />
+    <ProjectReference Include="..\Petzey.ViewAllPet.Services\Petzey.ViewAllPet.Services.csproj" />
+  </ItemGroup>
+
+</Project>

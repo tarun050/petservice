@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.DTO\Petzey.ViewAllPet.DTO.csproj
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Domain\Petzey.ViewAllPet.Model.csproj
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Repository\Petzey.ViewAllPet.Repository.csproj
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Services\Petzey.ViewAllPet.Services.csproj
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPets.API\Petzey.ViewAllPets.API.csproj
+
+
+Test projects
+---------------------------------------
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\ViewAllPet\ViewAllPet.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+C:\Users\Gokul\source\repos\Petzey.ViewAllPets.Service\Petzey.ViewAllPet.Exceptions\Petzey.ViewAllPet.Exceptions.csproj
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+
